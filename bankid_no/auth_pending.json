@@ -1,0 +1,7 @@
+{
+  "id": "bankid-no-session-1",
+  "refId": "order-42",
+  "status": "PENDING",
+  "url": "https://bankid-no.example.test/session-1",
+  "bindingMessage": "Blue Fox"
+}

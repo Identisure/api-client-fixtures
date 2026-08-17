@@ -1,0 +1,12 @@
+{
+  "id": "freja-session-1",
+  "refId": "order-42",
+  "status": "COMPLETED",
+  "ssn": "199001011239",
+  "country": "SWEDEN",
+  "name": "Anna Andersson",
+  "givenName": "Anna",
+  "surname": "Andersson",
+  "address": "Storgatan 1, 111 22 Stockholm",
+  "signedAt": "2026-06-08T10:00:00Z"
+}

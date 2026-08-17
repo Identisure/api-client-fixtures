@@ -1,0 +1,19 @@
+{
+  "id": "mitid-session-1",
+  "refId": "order-42",
+  "status": "COMPLETED",
+  "ssn": "0101901234",
+  "name": "Mads Jensen",
+  "givenName": "Mads",
+  "surname": "Jensen",
+  "phone": "+4512345678",
+  "email": "mads@example.test",
+  "address": "Raadhuspladsen 1, 1550 Kobenhavn",
+  "birthDate": "1990-01-01",
+  "pid": "mitid-pid-1",
+  "bankId": "mitid-user-1",
+  "signResult": {
+    "checksum": "c2lnbi1jaGVja3N1bQ=="
+  },
+  "signedAt": "2026-06-08T10:00:00Z"
+}

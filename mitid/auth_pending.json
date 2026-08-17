@@ -1,0 +1,6 @@
+{
+  "id": "mitid-session-1",
+  "refId": "order-42",
+  "status": "PENDING",
+  "url": "https://mitid.example.test/session-1"
+}

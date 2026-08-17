@@ -1,0 +1,22 @@
+{
+  "id": "bankid-se-session-1",
+  "refId": "order-42",
+  "status": "COMPLETED",
+  "ssn": "199001011239",
+  "name": "Anna Andersson",
+  "givenName": "Anna",
+  "surname": "Andersson",
+  "certStartDate": "2024-01-15",
+  "ocspResponse": "b2NzcC1yZXNwb25zZQ==",
+  "risk": "low",
+  "device": {
+    "ipAddress": "192.0.2.10",
+    "uhi": "device-uhi"
+  },
+  "stepUp": {
+    "mrtd": true,
+    "face": false
+  },
+  "address": "Storgatan 1, 111 22 Stockholm",
+  "signedAt": "2026-06-08T10:00:00Z"
+}

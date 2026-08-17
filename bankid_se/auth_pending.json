@@ -1,0 +1,9 @@
+{
+  "id": "bankid-se-session-1",
+  "refId": "order-42",
+  "status": "PENDING",
+  "autoStartToken": "auto-start-token",
+  "qrStartToken": "qr-start-token",
+  "qrStartSecret": "qr-start-secret",
+  "hintCode": "outstandingTransaction"
+}

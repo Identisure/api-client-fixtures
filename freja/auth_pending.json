@@ -1,0 +1,7 @@
+{
+  "id": "freja-session-1",
+  "refId": "order-42",
+  "status": "PENDING",
+  "autoStartToken": "freja-ref-1",
+  "qrData": "frejaeid://bindUserToTransaction?transactionReference=freja-ref-1"
+}

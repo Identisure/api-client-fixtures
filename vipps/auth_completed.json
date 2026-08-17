@@ -1,0 +1,16 @@
+{
+  "id": "vipps-session-1",
+  "refId": "order-42",
+  "status": "COMPLETED",
+  "ssn": "01019010046",
+  "name": "Ola Nordmann",
+  "givenName": "Ola",
+  "surname": "Nordmann",
+  "phone": "+4791234567",
+  "email": "ola@example.test",
+  "address": "Karl Johans gate 1, 0154 Oslo",
+  "birthDate": "1990-01-01",
+  "pid": "vipps-pid-1",
+  "bankId": "vipps-user-1",
+  "authenticatedAt": "2026-06-08T10:00:00Z"
+}

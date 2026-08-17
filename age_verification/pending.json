@@ -1,0 +1,7 @@
+{
+  "id": "age-session-1",
+  "status": "PENDING",
+  "url": "https://age.example.test/session-1",
+  "minAge": 18,
+  "maxAge": null
+}

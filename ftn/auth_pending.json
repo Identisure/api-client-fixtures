@@ -1,0 +1,6 @@
+{
+  "id": "ftn-session-1",
+  "refId": "order-42",
+  "status": "PENDING",
+  "url": "https://ftn.example.test/session-1"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "vipps-session-1",
+  "refId": "order-42",
+  "status": "FAILED",
+  "error": "CANCELLED"
+}

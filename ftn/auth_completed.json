@@ -1,0 +1,17 @@
+{
+  "id": "ftn-session-1",
+  "refId": "order-42",
+  "status": "COMPLETED",
+  "ssn": "010190-123M",
+  "name": "Matti Meikalainen",
+  "givenName": "Matti",
+  "surname": "Meikalainen",
+  "phone": "+358401234567",
+  "email": "matti@example.test",
+  "address": "Mannerheimintie 1, 00100 Helsinki",
+  "birthDate": "1990-01-01",
+  "pid": "ftn-pid-1",
+  "bankId": "ftn-user-1",
+  "bankName": "Nordea",
+  "authenticatedAt": "2026-06-08T10:00:00Z"
+}
